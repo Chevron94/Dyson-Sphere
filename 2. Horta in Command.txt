@@ -1,0 +1,271 @@
+Horta in Command
+
+"Captain," DATA SAID, "the Darwin and her commanding officer, Captain Dalen, are hailing us."
+
+"Open," Picard said.
+
+The image of a Horta seated in the command pit of its specially adapted starship was at once disconcerting and delightful to Picard: a rock in a saddle. The Horta community had come a long way since first contact with the Federation, partly through the efforts of the legendary Spock. Despite their physical peculiarities, some of the Horta had become explorers.
+
+Inside those lumpy, physically rigid shapes lived imaginative, supple minds that also wondered and were curious about the universe, that gloried in the means supplied to them by the Federation, and looked outward from the stony tunnels of their world.
+
+"Captain Dalen here," the Horta's electronic voice sang. "Captain Picard, we must enter the Sphere as soon as possible, if we are to learn anything at all before it is destroyed."
+
+"With all speed," Picard answered, trying not to smile at the irony of his colleague's new urgency. Rumor had it, Dalen had previously been irritated by Picard's eagerness. "Data, what's your latest estimate on the maximum amount of time we have?"
+
+"Still holding at just under two weeks, Captain," Data said from his station, "including a three day margin for retreat to a safe distance from the blast."
+
+Just days, Picard thought, to study the inner surface of a world whose Great Scott Sea alone was too large to run a sailing ship across in less than a century, where populations of tens of billions could conceivably live and never meet. Here was a vast archaeological universe, one that would haunt explorers for a thousand years to come. How much could really be learned during the single fortnight remaining?
+
+"Captain," the Horta sang, "do you have any ideas about how to solve the lock triggering problem?"
+
+"Mr. Data," Picard said, "may we have your thoughts?"
+
+Data continued to face the forward screen, and said, "Yes, Captain. The simplest solution to the problem, short of finding and replicating whatever combination of electromagnetic and or subspace emanations from our ship activated the lock last time, would be to send either a probe, or one of our shuttle craft, to trigger the lock, then let it withdraw after the Darwin has entered. We are already running such a frequency search program, but it may be that a robot probe's mass will not be noticed by the system, and a shuttle will have to be used. It may also be that there is no combination of frequencies for triggering the lock, and that the Sphere's systems simply recognize and bring in vessels of a certain size and configuration, as it did with us on our last visit."
+
+Data paused, then said, "Something is certainly wrong with the Sphere's exit program. When you see a sun going off center, it is a sure sign that the system has become unstable. So we must plan as though the doors of Dyson will slam shut after the Darwin goes in. When the Darwin wishes to come out, we will again approach with a probe or shuttle and turn the lock."
+
+"I wish it were easier," Picard said. "The time allowed us here," Captain Dalen said from the screen, "precludes a more elegant way. Going in poses no great difficulty for us, but coming out dictates in no uncertain terms that your Enterprise keeps station outside the Sphere. The only alternative is to probe the lock itself for a subspace pattern, or a code, if one exists, that we would use from inside to let ourselves and the Darwin out."
+
+Picard shook his head. "That may take longer than the time we have, Captain Dalen."
+
+Data turned to face Picard. "I must remind you, Captain, that we cannot use weaponry to open the lock. The Sphere is sheathed in a membrane of solid neutronium."
+
+"But the neutron star will penetrate it?"
+
+"Nothing can stop such an object," Data said.
+
+"Captain Dalen," Picard said, "some members of my crew will be aboard your vessel shortly to assist you."
+
+"We're prepared to receive them, Captain Picard. Don't take too long. Darwin out." The view screen returned to normal.
+
+Picard looked around, then stood up from his station. "Time now to decide which of us will go aboard the Darwin. Conference in five minutes."
+
+Lieutenant Worf took a seat at the conference table, then looked around at his fellow officers, wondering if they truly felt the danger that now faced them. The frozen smile on Dr. Crusher's face was a sure sign that she was trying to push that danger to one side of her mind. Worf preferred to confront it.
+
+Worf turned toward the head of the table. "Permission to speak, sir," the Klingon said to Captain Picard.
+
+The captain nodded in his direction. "Go on." "I do not believe," Worf continued, "that the Sphere is being targeted by a weapon. Stimulating as it is to consider such a war technology, I doubt that the Dyson Sphere merits an attack on this scale." The natural universe, as every Klingon knew, was itself a fearful antagonist. "So how do you explain it?" Picard asked. "Perhaps a natural catastrophe at the center of our galaxy opened this wormhole and brought the neutron star here by chance." "Mr. Data?" Picard asked. "That is possible, Captain, but not probable. Dyson has been here for as many as a hundred thousand years. The chances of the spontaneous appearance of neutrons now, during our visit, is at least as improbable as drawing a straight flush."
+
+Riker shook his head. "In hindsight, every hand is equally as improbable as a straight flush - or, for that matter, a royal flush. Each one of those hundred thousand years was equally improbable."
+
+"True," Data responded, "but while it may be a mistake to ascribe intent to an event that happens to concern our interests, in this case the possibility of it being an unintended event seems unlikely to me. In either case, we cannot proceed on that assumption." "An accident of nature." Riker sat back in his chair. "It's just too convenient," he muttered.
+
+"It seems convenient," Worf emphasized, "but only the most cowardly antagonist would hurl so massively destructive a weapon, even after a declaration of war. There is little glory in such conquests, and no chance for a warrior to display his bravery." He preferred to believe that what they were facing was a natural event, not out of any cowardice-he could hardly imagine such a contemptible feeling- but because standing against an enemy with such overwhelming technical superiority would require no ingenuity, no brilliant use of strategy and tactics, only the willingness to die for no end.
+
+Picard rested his hands on the tabletop. "I understand your feelings, Mr. Worf," the captain said, "but this does bear the mark of an intended act. We cannot conclude, and behave, as if this were a natural occurrence in the absence of further evidence. While it may be difficult, at this point, to tell an intended attack from an accident of nature, we lessen our risk if we are prepared for the former and the latter turns out to be true."
+
+"It is safer than the other way around," Data said, nodding his agreement.
+
+The captain nodded back and said, "Now, Data, how many solar systems do you suppose existed here before the Sphere was built?"
+
+"I estimate between one hundred and forty-six thousand and one hundred and fifty-two thousand, Captain."
+
+"As I see it, that makes about one hundred and fifty thousand possible reasons why someone might have a grudge against the Dysons. Maybe one of the old evictees, or survivors, has come back. For all we know, what we're witnessing is one small battle in a galactic war. I'd hate to learn that the front line is coming our way."
+
+Riker's eyes went wide with disbelief. He shook his head in denial. Worf was already wondering what kind of battle they might face.
+
+"Be prepared for surprises, Number One," Picard said. "They're the only certainty here. In less than two weeks, all hell is going to break loose. And when it does, hell itself will look like shore leave by comparison."
+
+Troi's fingers tightened around her cup of tea. "Or like Dyson but a little colder," she added.
+
+"The front line?" Worf said, wishing that a Klingon vessel were nearby, if only to gather what information it could about any advanced weaponry.
+
+Picard looked grim. "That's one of the things we must determine, if we can, and if there's time- which brings up the question of who will make up the away team that is to go in with the Darwin."
+
+Crusher and Troi looked at the captain expectantly. La Forge and Data were still, while Will Riker, with his familiar look of anticipation and restlessness on his bearded face, was clearly hoping to command the away team. They all wanted to go; they would all be thinking of what they might discover inside the Sphere. Worf was still contemplating the neutron star that might destroy it.
+
+Picard turned his head toward Riker. "Number massively destructive a weapon, even after a declaration of war. There is little glory in such conquests, and no chance for a warrior to display his bravery." He preferred to believe that what they were facing was a natural event, not out of any cowardice-he could hardly imagine such a contemptible feeling- but because standing against an enemy with such overwhelming technical superiority would require no ingenuity, no brilliant use of strategy and tactics, only the willingness to die for no end.
+
+Picard rested his hands on the tabletop. "I understand your feelings, Mr. Worf," the captain said, "but this does bear the mark of an intended act. We cannot conclude, and behave, as if this were a natural occurrence in the absence of further evidence. While it may be difficult, at this point, to tell an intended attack from an accident of nature, we lessen our risk if we are prepared for the former and the latter turns out to be true."
+
+"It is safer than the other way around," Data said, nodding his agreement.
+
+The captain nodded back and said, "Now, Data, how many solar systems do you suppose existed here before the Sphere was built?"
+
+"I estimate between one hundred and forty-six thousand and one hundred and fifty-two thousand, Captain."
+
+"As I see it, that makes about one hundred and fifty thousand possible reasons why someone might have a grudge against the Dysons. Maybe one of the old evictees, or survivors, has come back. For all we know, what we're witnessing is one small battle in a galactic war. I'd hate to learn that the front line is coming our way."
+
+Riker's eyes went wide with disbelief. He shook his head in denial. Worf was already wondering what kind of battle they might face.
+
+"Be prepared for surprises, Number One," Picard said. "They're the only certainty here. In less than two weeks, all hell is going to break loose. And when it does, hell itself will look like shore leave by comparison."
+
+Troi's fingers tightened around her cup of tea. "Or like Dyson but a little colder," she added.
+
+"The front line?" Worf said, wishing that a Klingon vessel were nearby, if only to gather what information it could about any advanced weaponry.
+
+Picard looked grim. "That's one of the things we must determine, if we can, and if there's time- which brings up the question of who will make up the away team that is to go in with the Darwin."
+
+Crusher and Troi looked at the captain expectantly. La Forge and Data were still, while Will Riker, with his familiar look of anticipation and restlessness on his bearded face, was clearly hoping to command the away team. They all wanted to go; they would all be thinking of what they might discover inside the Sphere. Worf was still contemplating the neutron star that might destroy it.
+
+Picard turned his head toward Riker. "Number One, normally I would put you in charge of the away team, but in this case I shall assume that position, and leave you in command of the Enterprise."
+
+"I expected that," Commander Riker replied, but he looked disappointed nonetheless.
+
+Worf knew what was coming next. "And since the neutron star is out here," Picard continued, "and since the Sphere's interior seems less likely to produce work for a warrior, Worf will remain outside with you. Data, you will also stay, and take charge of perfecting our method of entrance and exit from the Sphere."
+
+"So who else is going?" Beverly Crusher asked. "You might need another physician aboard the Darwin."
+
+"If you had experience treating Hortas as well as humans, I'd agree," Picard said, "but I'd rather have you aboard the Enterprise for now."
+
+Data said, "Then by process of elimination, Captain, it must be La Forge and Troi who will accompany you."
+
+"Yes."
+
+Worf heard the excitement in the captain's voice, and noticed that Troi was looking at him as if to ask how he felt.
+
+"I'm fine," Picard said, as if anticipating her question. "Just had a physical last week." He glanced at Crusher, who nodded. "I must admit that I am excited by the prospect of exploring the Sphere. Thrilled, if I may say so. I wish our circumstances were less apocalyptic, but this is the hand we've been dealt, and there is no reason not to play it out. Does anyone disagree?"
+
+Once again, Worf knew why he liked to serve with Picard. The man was not a coward; cautious only to the point where less caution would make him foolhardy; brave even to death if that were the right course.
+
+"Well, then," Picard said as he stood up. "It's time to kick the door open. Data?"
+
+"Yes, Captain. I shall make it so."
+
+Worf's eyes narrowed in admiration. Once Picard had glimpsed the interior of Dyson, even with a relativistic shotgun aimed at his head, it was inconceivable that he should not go inside again and take a closer look.
+
+"There is gold scattered under our beds," wrote T. E. Lawrence of his archaeological villa in Babylon. Picard knew this particular tale of Earthly archaeology well, and was reminded of it as he materialized aboard the Darwin. Thomas Lawrence and Leonard Woolley had provisioned their villa with a huge fireplace, ankle-deep sheepskin rugs, coffee tables with ancient Babylonian sphinxes for legs, and a huge bathtub with beaten copper trim. They ate dates from a golden dish found in the tomb of Shubad Khan, and drank tea from Hittite clay goblets. When a visitor asked them if they were worried about dropping and breaking the treasures, Lawrence (who happened, at the time, to be wearing a Babylonian king's robe of gold and silver thread) replied, "If we drop them, the British Museum will be glad to have the pieces."
+
+That was about five years before World War I. Picard could get extremely depressed thinking about the archaeological treasures that had vanished during Earth's world wars. Much about the science of archaeology had changed since Lawrence's time, except for occasional intrusions of warfare into one's research-and, of course, the villas. They were, compared to the tents that botanists and paleontologists traditionally camped in, luxurious.
+
+Picard nodded at the Horta positioned behind the lowset transporter console as he followed another Horta out of the transporter room, trailed by Troi and La Forge. The science starship Darwin, in a tradition dating back to Lawrence and Woolley, had been spared no expense. She was a giant, roving archaeological villa with warp engines and a pair of new, oversized shuttles attached to her belly. The shuttles, christened the Balboa and the Engford, gave the outside of the Voyager-class vessel, to Picard's mind, a curiously pregnant appearance.
+
+Inside, as he had been informed, all of the decks, save for the engineering sector and a few dozen cubic meters of hastily furnished "humanoid quarters," were a maze of tunnels and bare chambers hewn out of what appeared to be solid rock. Picard, lengthening his stride to keep up with his Horta guide, felt almost as though he were moving through a mineshaft. But it only appeared so.
+
+"To the bridge," the Horta said when they came to the lift. Picard entered with his two officers; the door slid shut behind them. In a few moments, the door in front of them whisked open.
+
+The Darwin's bridge, even with its rocklike floor, stations with saddles instead of chairs, and consoles and display screens closer to the floor than usual, was not unlike the bridge of the Enterprise. The distant, only dimly lit Dyson Sphere had grown to cover the entire forward view of the wall screen. Dead center, a subspace beacon dropped by the Sagan's captain called attention to the only truly useful point of reference on Dyson's otherwise craterless, colorless surface. When Montgomery Scott's ship, the Jenolen, crash landed on the Sphere, it had produced a thirty kilometer-long stain, or skid mark. This was the only sign of anything like a meteorite impact in all of Dyson's history. Even at the screen's highest possible magnification, there was no evidence that the crash had done the slightest damage to Dyson's shell. What appeared to be twin furrows of plowed-up debris had come, all of it, from the sandpapering the Jenolen's underside had received; but the skid mark provided an unmistakable reference for orientation, making "Scott Base" the declared South Pole of Dyson. True as a compass needle, the skid pointed the way to the lock that Picard had opened once before. Captain Dalen tilted the view upward from Scott Base. Upward and upward, revealing a landscape that, though he had seen it before, still seemed impossible to Picard.
+
+The Darwin was a half million kilometers above Scott Base, approximately the height of the Moon over Earth. Dyson's horizon was many millions of kilometers away; yet the surface, which Picard knew was curved, seemed as level as the Utah salt flats viewed from the height of a footstool.
+
+Picard walked toward the Horta captain's command pit, with Troi and La Forge just behind him, descending a rocky ramp to the captain's side. He straightened his tunic and said, more stiffly than he hoped, "Captain Dalen, on behalf of myself and my team, we are honored to be aboard your ship."
+
+"Thank you," the Horta's amplified voice replied. "Together, we shall prevail in our mission. Please sit down, if you wish."
+
+"Oh, I don't mind standing," Picard said. Except for the floor, the only other unoccupied and available seating at the moment was an empty saddle to the right of Captain Dalen.
+
+"Enterprise to Darwin. Data here."
+
+"Yes, Data," Picard replied.
+
+"We are almost within sight of the lock entrance," Data's voice continued. "I think we can open it by tuning its subspace frequencies. I have now run through just over ninety trillion new subspace sequences. Statistically, we should be able to hit the right one by the time we face the lock."
+
+"Continue," Picard said, knowing that what "should be" and what "would be" could be galaxies apart. "We can't let the system lead us in until we know you'll be able to open it later."
+
+The lock was now visible on the screen, unchanged from the day Picard had last seen it. The Darwin and Enterprise both came to a stop and kept station with the lock's position. Both ships were well removed from the triggering point, where tractor beams would reach out and bring them inside.
+
+Picard waited for Data to call. A minute went by, then another.
+
+At last Data said, "It is taking longer than expected, Captain. Unlike our 'real' universe, subspace is not limited to just one electromagnetic spectrum. We have known of a hundred twenty-seven possible microverses. Here, I am beginning to suspect more."
+
+The Horta captain shifted uneasily in her saddle. "How many more?" she asked.
+
+"I'm seeing traces of thousands," Data said. "Multiple thousands."
+
+Picard wondered if, after all their patience and planning, they would be unable to get inside. The neutronium membrane could, in theory, be pierced, perhaps even peeled back; but the damage would be horrendous. Although this would be nothing compared to the damage the neutron star was about to inflict, there were certain aspects of the Sphere's present instability that, at least on a subconscious and purely instinctive level, gave him the feeling Dyson was in some manner responding to the attack.
+
+On the heels of this thought came an even more disturbing one: Might the previous instability have occurred in anticipation of the star's arrival? This meant that the presumably abandoned system was acting out of a sense of self-preservation, as he or Data would under similar circumstances. Increasingly, Picard was getting the impression that what he was really attempting was to enter a living organism-which meant that the Darwin and the Enterprise were, by comparison to the Sphere, a pair of invading virus particles. Viruses could survive well enough inside a human body, so long as they did not step out of line, vandalize any cells, and trigger an immune response. But-
+
+No, Picard thought. Using the Darwin's weaponry on the membrane would not work. The subtle approach, namely lock picking, would have to serve; although he had to admit that a meeting with Dyson's antibodies, if such existed, would certainly be interesting. He did not expect, however, that he would survive the encounter for more than a few milliseconds.
+
+No, he reminded himself; we must be subtle.
+
+"Darwin must be subtle," the Horta said suddenly, as if reading Picard's thoughts. "Then again, I wonder if our tunneling enzymes could eat through neutronium."
+
+Picard was startled by the suggestion, but then realized that the Horta was not serious.
+
+Captain Dalen was joking.
+
+Picard let out a laugh, for polite show.
+
+"The Sphere, the Sphere," Captain Dalen intoned. "Here is a question. How many Horta would it have taken to hollow it out?"
+
+"How many?" Picard asked, knowing that he was being set up.
+
+"One big Horta!" shouted Captain Dalen.
+
+Picard laughed a little more loudly. Not half bad, he thought. Much better than "Horta Culture" jokes involving rock gardens.
+
+"Captain Picard," Data's voice cut in, "I believe we have a subspace lock combination. It is spread across three hundred different subspace spectra."
+
+"So it is an expanded microverse," Picard replied.
+
+"Yes. It appears everything we thought we knew about subspace and superstrings will have to be rethought. The microstructure of spacetime is more tangled here than any place else in the known universe."
+
+"The Sarpeidon Nebula," the Horta said, deadpan. "There is one other place. The Sarpeidon Nebula. We had an extended research mission there a little while ago."
+
+"The now destroyed home system of a vanished race that built time portals," Data shot back, obviously having made the connection in an instant. "And you say subspace is just as tangled there?"
+
+Captain Dalen moved the entire forward portion of her body, approximating, in accordance with human custom, what Picard recognized as a nod.
+
+"Are you suggesting," Picard said, "that the Dysons disappeared into time the way the Sarpeidans did?"
+
+Captain Dalen shook her "head." "Unknown. We found that the tangle-well, sort of unravels about one hundred thousand years ago, as if it suddenly came into existence out of nowhere. I've been making modifications on the Darwin's subspace sensors ever since, and so I've now had an opportunity to probe backward through subspace all the way from Sarpeidon to here. And do you know what I've found?"
+
+"Let me guess," Picard said. "The Dyson tangle unravels near 100,000 B.C., which is about the time the Sphere was built."
+
+"Correct."
+
+"So, the Dysons, and someone on Sarpeidon, may have re-engineered the fabric of spacetime. Rebuilt it to their own design."
+
+"Not just here and at Sarpeidon," the Horta replied. "All of the normal subspace dimensions between here and Sarpeidon have something in common with Sarpeidon and Dyson."
+
+"You're joking," Picard said.
+
+"Not this time. It's only a theory, of course, but Sarpeidon and Dyson-although the subspace that surrounds them appears to have been more intensely reworked than elsewhere-may not be merely the exceptions that prove the rule. They appear to be the actual rule. Probe back just a little way beyond them and all of subspace-all of subspace-breaks down into only the four most basic dimensions of space-time. I believe that someone, somewhere, rewove the entire fabric of the universe, and what's happened here is that you, and all the other young civilizations-maybe even the Dysons and the Sarpeidans-simply stumbled upon the bales of fabric someone else left behind, and learned how to wrap warp engines, transporters, and subspace communicators around them."
+
+Picard looked at the Horta with astonishment and admiration, and more with admiration than astonishment. He let out a long sigh and said, "So, what you're suggesting is that subspace may itself be an archaeological artifact."
+
+"May be," the Horta sang, and laughed.
+
+"So then the question is, why would they build subspace so much deeper here?"
+
+"There are many possible reasons," Data suggested. "One obvious advantage is that it greatly multiplies the odds against someone just cruising up to the front door and being able to find the right lock sequence."
+
+"An added layer of immune defense," Picard added, "probably against unwanted visitors, and unwanted infection."
+
+"Meaning us," said Captain Dalen.
+
+Picard grinned, in the manner that Sejanus, the Roman conspirator, might have grinned when he realized that the Emperor Tiberius had clothes after all, and brains, and teeth. "Data," he said, "try the lock twice. I'd like to know we have a good chance of making it work on our way out."
+
+"I was thinking of trying it three times, Captain."
+
+"Three, then."
+
+"Signal sent."
+
+The door to Dyson began to open, and Picard recalled that it was not the usual kind of airlock, since there was no atmosphere that could escape during the entrance or exit of vehicles. Dyson's atmosphere clung to the vast inner landscape, held in place by a field of pseudo gravity whose grip weakened so rapidly with increasing height that at an altitude of only fifty kilometers, it exerted no measurable influence at all. The doorway had a field of its own: a force wall standing thirty kilometers high and completely rimming its eight corners. Against that wall, the atmosphere piled up, as if it were merely water pressing against the sides of a fish tank.
+
+The artificial gravity was not generated by centrifugal spin. It was created by gravitic generators, according to scans obtained during the first encounter. Much like the synthetic gravitational fields inside the Darwin and the Enterprise, they acted with little regard for the inertial effects of acceleration and deceleration-another fact made possible only by the miracle of subspace. This held true, of course, only for objects, or gases, or people standing within the field, which explained, without a doubt, the world's increasingly off-center sun.
+
+"Lock closing, now," Data called from the Enterprise's comlink.
+
+Picard was looking straight ahead into brilliant sunlight, looking across tens of millions of kilometers of empty, airless space between Dyson's shell and a sun that, had turned inexplicably treasonous. The door's levers began to eclipse it, like the lids of a giant eye slowly shutting. And then the light went out, went out utterly, because the nearest star shining down upon Dyson's outer shell was one hundred light years away.
+
+The darkness did not last very long. The Darwin's photo multipliers were capable of looking down from the surface of Earth's moon and discerning the glow of a firefly in the Australian outback. They came on instantly, and the flattest plain in all the known universe was visible again. As Data double-checked and quadruple-checked his figures, calling out the results of his calculations from moment to moment, Picard looked forward to being on the underside of that plain. The Darwin's time here would be too short, but he wondered if some bit of knowledge might be gained to prevent the coming destruction. It seemed unlikely, but he could hope.
+
+"Lock opening again," Data announced.
+
+After a second closing, and then a third, the Horta captain said, "Open again, Data. We'll take the Darwin in and try opening the lock from inside with the combination."
+
+"You have it now, Captain Dalen," Data said.
+
+As the lock opened, the Horta ordered half-ahead on impulse power. The Darwin eased forward, and entered the Sphere. As the ship continued forward and came around to exit, large land masses and bodies of water swept across the screen, spread across the incurving surface in full daylight. The lock was closing again as the Darwin came to face it.
+
+Picard tensed, remembering the catastrophic exit of last time, when the Enterprise had fired upon the Jenolen as it held the lock open, beamed Montgomery Scott and Geordi La Forge out only a moment ahead of the ship's destruction, and then slipped through the closing lock at the last instant. That had been too close a call.
+
+"Opening signal sent," Captain Dalen announced.
+
+Picard took a deep breath in the seconds before the lock responded, then breathed more easily. As the Darwin came out, Riker said from the Enterprise, "Now I'm sure you'll stay to the last minute, or you wouldn't have made so certain of your exit." If it works four times," Picard replied, "it should work when we need it."
+
+"Not necessarily true, Captain," Data said, "but very likely. Inductive reasoning is always a gamble, logically speaking, however small."
+
+Riker said, "Inductive reasoning is often throwing your hat over the cliff and jumping after it."
+
+"One more try, then," Picard said, "but this time we're going in for the duration."
+
+Riker was becoming uneasy, increasingly so, as the others aboard the Enterprise wished the Darwin "good luck" or "Godspeed" and a "safe return." He did not like such farewells; they sounded like a challenge to fate. They made him think of others who had said the same timeworn phrases to people they would never see again.
+
+At last, thinking of the Great Scott Sea, and all the other bodies of water inside Dyson, Riker recalled another kind of good luck message.
+
+He leaned over his console. "Don't get your feet wet," he said to Picard and the others aboard the Darwin.
