@@ -1,26 +1,23 @@
-The Shape of Heaven
+1. Форма Неба
 
-Tonight CAPTAIN Picard came back again to his mother's old admonition: "Be careful what you wish for, Jean-Luc. You may get it."
+Сегодня вечером капитан Пикар вновь вспомнил старое наставлении матери : " Будь осторожен в своих желаниях, Жан-Люк. Они имеют свойство сбываться. "
 
-Sitting in his ready room, he again played the record of the Enterprise's brief first passage through the Dyson Sphere. He had played it so many times now that his mind was numbed by it, numbed by what a later computer analysis of that scan had revealed. He had believed the Sphere's interior to be completely lifeless, but a detailed examination of the data by newer and more advanced computers had shown a variety - a nearly infinite variety, Picard supposed-of plants and vegetation.
+Сидя в своем кабинете, он вновь проиграл запись первого полета Энтерпрайза в Сфереру Дайсона. Он проигрывал ее так часто, что его разум перестал воспринимать ее, и был ошеломлен данными сканирования, выявленными компьютерным анализом. Он понимал, что внутри Сфера была полностью безжизненной, но детальное изучение данных на более новых и более совершенных компьютерах показали разнообразние -почти бесконечное разнообразие, по предположению Пикара, видов растений.
 
-But what they had at first concluded remained true: The Dyson Sphere had seemingly been abandoned by whatever life forms had constructed it. The later analysis had revaeled no signs of higher life forms, of intelligent life.
+Однако первое, к чему они пришли: Сфера Дайсона, казалось, была полностью заброшена той формой жизни, которая ее построила. Поздний анализ подтвердил, что не было обнаружена никаких высших существ, разумных существ.
 
-Picard thought he knew every river, every stream, every wrinkle in the world's topography, but he understood that the sphere's size was as every bit as deceiving as it was overpowering, and that for all he thought he knew, there was infinitely more he did not know. The only objects the ships recorders and the later computer analysis might possibly have missed were a couple of twenty-mile long elephants. What had to be a braided stream was really a river wider that the earth and descending more than two hundred million kilometers from its head waters; gazing across whole light minutes of land and sea could draw even the most seasoned explorers into moments of madness.
+Пикард думал, что знает каждый реку, каждый поток, каждую морщинку в мировой топографии, но он понимал, что размеры Сферы были настолько обманчиви, насколько они были подавляющим, и при всем том, что он знал, он понимал, что не знает намного больше. Единственные объекты которые корабельные сенсоры и последний компьютерный анализ могли, упустить былы несколько двадцатимильных слонов. То, что долно было быть ручейком, на деле оказалось рекой, более широкой, чем Земля и простирающейся на более чем двести миллионов километров от своего истока; простираясь через несколько световых минут суше и на море это величественное зрелище даже бывалых исследователей могло свести с ума.
 
-Picard closed the record of the earlier passage through the Dyson Sphere and opened his captain's log to review the most recent entry.
+Пикард закрыл запись о раннем прохождении через Сферу Дайсона и открыл свой личный журнал капитана, чтобы изучить самую последнюю запись .
 
-CAPTAIN'S LOG, STARSHIP
+Журнал капитана, Звездолет Энтерпрайз
+Звездная дата : 47321,6
 
-ENTERPRISE
+Более года прошло с тех пор мы нашли "Дженолен", корабль Монтгомери Скотта, разбившийся на внешней оболочке Сфера Дайсона. Уже больше года бюрократическая процедура задерживает мои планы по возвращению к Сфере.
 
-Stardate: 47321.6
+Мы не можем туда отправиться, пока я не соберу свою команду из квалифицированных археологов федерации. Мне нужны ученые, которые готовы достать из-под земли все необходимое, что означает привлечь для этого Хорт. Они могут перемещаться по скале, так же легко, как человек идет сквозь воздух. К сожалению, они так же упрямы, как и эффективны, а это означает больше бюрократических проволочек.
 
-More than a year has passed since we found Montgomery Scott's ship, the Jenolen, crashed on the outer hull of the Dyson Sphere. More than a year, during which bureaucratic procedure delayed my plans for a return to the Sphere.
-
-We cannot go in until I have assembled my team of Federation-qualified archaeologists. I want scholars who are also efficient excavators-which means calling on the assistance of Hortas. They can move through rock as effortlessly as a man walks through air. Unfortunately, they are as stubborn as they are efficient-which has meant more bureaucratic delays.
-
-Two science vessels met us at the end of our first encounter, met us near the Great Wall as we were departing, but the Federation had restricted their exploration of the Sphere entirely to surface mapping and long-range subspace scans. They were under orders not even to try entering Dyson.
+Два научных корабля встретили нас в конце нашего первого столкновения, встретили нас возле Великой Стены, где мы отбывали, но Федерация ограничивает их исследование Сферы сканированием ее поверхности и подпространственным сканированием дальнего радиуса действия. У них приказ: ни в коем случае не пытаться проникнуть внутрь Сферы Дайсона.
 
 Our previous method of entering and exiting the artifact had actually required the destruction of a vessel. The Jenolen held the door to Dyson open while we, in the Enterprise, just barely escaped, having no choice but to fire upon and destroy the vessel blocking our path. We found no obvious way of triggering the exit lock from the inside, and once triggered from outside, a vessel would be hauled in by automatic tractor beams, and the door would close.
 
